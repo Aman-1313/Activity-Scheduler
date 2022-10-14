@@ -10,3 +10,4 @@ The project aims to create a simulation of a working website aimed to create an 
 
 ## A sneak peak at the schedular page of the website
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
